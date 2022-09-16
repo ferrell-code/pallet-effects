@@ -1,1 +1,3 @@
 # pallet-effects
+
+cargo test
